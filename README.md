@@ -53,5 +53,8 @@
   
   <br>
   <br>
-  <h2>📜 목차 📜</h2>
-</div>  
+</div>
+<hr>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pavel-Dmr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Dmr&layout=compact&theme=tokyonight)
